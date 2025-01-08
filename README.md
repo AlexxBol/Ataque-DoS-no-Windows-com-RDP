@@ -4,7 +4,7 @@
 <p>●	No Windows habilitar Desktop remoto</p>
 <p>●	Kali</p>
 <p>●	msfconsole</p>
-<p>	search rdp</p>
+<p>●	search rdp</p>
 <p>●	Use auxiliary/dos/Windows/rdp/ms12_020_maxchannelids</p>
 <p>●	Set rhosts  ip do destino</p>
 <p>●	Run/exploit</p>
